@@ -1,0 +1,12 @@
+% UFU
+
+
+fundou(bmw, bmwx5).
+fundou(audi, audiq3).
+fundou(vw,jettagli).
+fundou(mercedes, a45amg).
+
+suv(bmwx5).
+suv(audiq3).
+sedan(jettagli).
+hatch(gla45amg).
